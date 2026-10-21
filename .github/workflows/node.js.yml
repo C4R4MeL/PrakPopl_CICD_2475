@@ -52,4 +52,4 @@ docker:
       with:
         context: .
         push: true
-        tags: farhanfifel/prakpopl_cicd_2475-nodejs:latest
+        tags: farhanfifel/prakpopl-nodejs:latest
